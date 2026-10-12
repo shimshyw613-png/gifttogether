@@ -10,4 +10,4 @@ export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiO
 
 // Your app's public web address. Invite links point here, so people without
 // the phone app can still join from a browser.
-export const PUBLIC_URL = 'https://gifttogether-app.netlify.app/';
+export const PUBLIC_URL = 'https://shimshyw613-png.github.io/gifttogether/';
